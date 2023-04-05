@@ -1,0 +1,10 @@
+.frame{
+border:3px solid #ccc;
+margin:auto;
+padding:15px 10px;
+}
+.main_page{
+	background-image:img src="C:\Users\Valeria\Desktop\VALERIA DESIGNS\image4.jpg";
+	background-size:cover;
+	position:fixed;
+}
